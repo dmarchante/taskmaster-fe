@@ -1,3 +1,20 @@
+## Taskmaster
+
+This application displays all tasks available in the app
+
+## Screenshot
+
+![Application Screenshot](./assets/taskmaster-screenShot.png)
+
+
+a link to the deployed application on S3
+
+## Backend Reop
+
+[Taskmaster Backend](https://github.com/dmarchante/taskmaster)
+
+# Poject Details - React
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
