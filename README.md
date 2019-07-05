@@ -4,7 +4,7 @@ This application displays all tasks available in the app
 
 ## Screenshot
 
-![Application Screenshot](../assets/taskmaster-screenShot.png)
+![Application Screenshot](./assets/taskmaster-screenShot.png)
 
 ## Deployed Site
 [Taskmaster Frontend](http://taskmaster-fe.s3-website-us-west-2.amazonaws.com/)
