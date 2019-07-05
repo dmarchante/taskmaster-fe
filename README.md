@@ -6,8 +6,8 @@ This application displays all tasks available in the app
 
 ![Application Screenshot](./assets/taskmaster-screenShot.png)
 
-
-a link to the deployed application on S3
+## Deployed Site
+[Taskmaster Frontend](https://master.d17p73zvbbyj4r.amplifyapp.com/)
 
 ## Backend Reop
 
