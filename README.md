@@ -7,7 +7,7 @@ This application displays all tasks available in the app
 ![Application Screenshot](./assets/taskmaster-screenShot.png)
 
 ## Deployed Site
-[Taskmaster Frontend](https://master.d17p73zvbbyj4r.amplifyapp.com/)
+[Taskmaster Frontend](http://taskmaster-fe.s3-website-us-west-2.amazonaws.com/)
 
 ## Backend Reop
 
