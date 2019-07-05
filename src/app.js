@@ -1,9 +1,9 @@
 import React, {useState, useEffect} from 'react';
 import './app.scss';
 
-import mockData from './mock.json';
+// import mockData from './mock.json';
 
-const API = 'https://cdmarch-taskmaster-dev2.us-west-2.elasticbeanstalk.com/tasks'
+const API = 'http://cdmarch-taskmaster-dev2.us-west-2.elasticbeanstalk.com/tasks'
 
 function Tasks() {
 
