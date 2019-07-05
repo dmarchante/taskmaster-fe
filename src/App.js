@@ -10,8 +10,6 @@ function Tasks() {
   const [tasks, setTasks] = useState([]);
 
   const _getTasks = () => {
-    // setTasks(mockData)
-    // fetch from brook
     fetch( API, {
       mode:'cors',
     })
