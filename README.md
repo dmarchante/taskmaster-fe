@@ -6,14 +6,17 @@ This application displays all tasks available in the app
 
 ![Application Screenshot](./src/assets/taskmaster-screenShot.png)
 
-## Deployed Site
+## Deployed Frontend
 [Taskmaster Frontend](http://taskmaster-fe.s3-website-us-west-2.amazonaws.com/)
 
-## Backend Reop
+## Deployed Backend
+[Taskmaster Backend](http://cdmarch-taskmaster-be-dev.us-west-2.elasticbeanstalk.com/)
+
+## Backend Repo
 
 [Taskmaster Backend](https://github.com/dmarchante/taskmaster)
 
-# Poject Details - React
+# Project Details - React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
