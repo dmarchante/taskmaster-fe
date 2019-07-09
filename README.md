@@ -7,7 +7,11 @@ This application displays all tasks available in the app
 ![Application Screenshot](./src/assets/taskmaster-screenShot.png)
 
 ## Deployed Frontend
-[Taskmaster Frontend](http://taskmaster-fe.s3-website-us-west-2.amazonaws.com/)
+[Taskmaster Frontend](http://cdmarchante-taskmaster-fe.s3-website-us-east-1.amazonaws.com/)
+
+## Frontend Repo
+
+[Taskmaster Backend](https://github.com/dmarchante/taskmaster-fe)
 
 ## Deployed Backend
 [Taskmaster Backend](http://cdmarch-taskmaster-be-dev.us-west-2.elasticbeanstalk.com/)
