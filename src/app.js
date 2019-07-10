@@ -25,21 +25,23 @@ function Tasks() {
         <li className={`status-${task.status}`} key={task.id}>
           <details>
             <summary>
-              <img src={task.resizedPic} alt="resizedPic"></img>
+              <a href={task.pic}><img src={task.resizedPic} alt="resizedPic"></img></a>
               <span>{task.title}</span>
               <span id={task.id}>{task.status}</span>
               <span>{task.assignee}</span>
-              <form action={API + "/" + task.id + "/images"} method="post" encType="multipart/form-data">
+            </summary>
+            <section>
+              <div>
+                <p>{task.description}</p>
+              </div>
+              <div>
+                <form action={API + "/" + task.id + "/images"} method="post" encType="multipart/form-data">
                 <label>
                   <span>Upload Image</span>
                   <input name="file" type="file" />
                 </label>
                 <button>Save</button>
               </form>
-            </summary>
-            <section>
-              <div>
-                <span>{task.description}</span>
               </div>
             </section>
           </details>
