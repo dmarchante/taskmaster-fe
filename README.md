@@ -9,6 +9,9 @@ This application displays all tasks available in the app
 ## Deployed Frontend
 [Taskmaster Frontend](http://cdmarchante-taskmaster-fe.s3-website-us-east-1.amazonaws.com/)
 
+## Lambda Image Resizer
+Simply add an image and it will automatically create a thumbnail for that image
+
 ## Frontend Repo
 
 [Taskmaster Backend](https://github.com/dmarchante/taskmaster-fe)
