@@ -1,7 +1,7 @@
 import React, {useState, useEffect} from 'react';
 import './app.scss';
 
-const API = 'http://cdmarch-taskmaster-be-dev.us-west-2.elasticbeanstalk.com//tasks'
+const API = 'http://cdmarch-taskmaster-be-dev.us-west-2.elasticbeanstalk.com/tasks'
 // const LOCAL_API = 'http://localhost:5000/tasks'
 
 function Tasks() {
